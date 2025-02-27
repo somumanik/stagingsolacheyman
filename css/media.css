@@ -57,11 +57,12 @@
         left: 0%;
     }
 
-    .closeMenu
+    /* // yeh code kaam nahi kr rha hai */
+    /* .closeMenu
     {
         left: -100%;
-    }
-    
+    } */
+
     .header_mid_right .header_mid_right_nav>nav>ul{
         width: 100%;
         flex-direction: column;
@@ -70,7 +71,7 @@
     }
     .header_mid_right_nav .closebutton
     {
-        width: 143%;
+        width: 142%;
     }
     .header_mid_right_nav>nav>ul>li {
         width: 100%;
@@ -89,5 +90,10 @@
     {
         flex-basis: 100%;
       
+    }
+
+    .Image_content_mid
+    {
+        flex-direction: column;
     }
 }
